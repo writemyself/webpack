@@ -6,3 +6,5 @@ webpack -help
 #可以一条一条搞清楚 
 --module-bind "css=style-loader!css-loader"
 #绑定遇到css文件使用style-loader和css-loader,这样就不用在每一个文件中指明用什么样的loader,方便很多！
+#2.webpack.config.js配置
+module.exports = {}具体看自己的代码
