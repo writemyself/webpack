@@ -68,7 +68,7 @@
 /***/ (function(module, exports, __webpack_require__) {
 
 __webpack_require__(1);
-__webpack_require__(2);
+__webpack_require__(2);//为何不能用style-loader
 
 function hello(){
     console.log("hello");
