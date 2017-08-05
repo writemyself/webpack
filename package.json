@@ -1,0 +1,25 @@
+{
+  "name": "xswebpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/writemyself/webpack.git"
+  },
+  "keywords": [
+    "xs110112"
+  ],
+  "author": "xs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/writemyself/webpack/issues"
+  },
+  "homepage": "https://github.com/writemyself/webpack#readme",
+  "devDependencies": {
+    "webpack": "^3.4.1"
+  }
+}
