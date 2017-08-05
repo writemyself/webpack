@@ -9,3 +9,7 @@ webpack -help
 #绑定遇到css文件使用style-loader和css-loader,这样就不用在每一个文件中指明用什么样的loader,方便很多！
 #2.webpack.config.js配置
 module.exports = {}具体看自己的代码
+
+package.json添加文件描述
+在script中可以自定义命令如：
+第8行webpack:自定义webpack命令不用在终端中输入很多命令了这里可以一次性定义完，超级方便终端中运行npm run webpack即可
