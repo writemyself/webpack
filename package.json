@@ -11,7 +11,7 @@
     "url": "git+https://github.com/writemyself/webpack.git"
   },
   "keywords": [
-    "xs110112"
+    ""
   ],
   "author": "xs",
   "license": "ISC",
@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/writemyself/webpack#readme",
   "devDependencies": {
+    "css-loader": "^0.28.4",
+    "style-loader": "^0.18.2",
     "webpack": "^3.4.1"
   }
 }
