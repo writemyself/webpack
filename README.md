@@ -13,11 +13,4 @@ module.exports = {}具体看自己的代码
 package.json添加文件描述
 在script中可以自定义命令如：
 第8行webpack:自定义webpack命令不用在终端中输入很多命令了这里可以一次性定义完，超级方便终端中运行npm run webpack即可
-# webpack
-# webpack
-# webpack
-# webpack-new
-# webpack-new
-# webpack-new
-# webpack-new
-# webpack-new
+
